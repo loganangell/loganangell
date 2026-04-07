@@ -1,24 +1,24 @@
-## 📖 About Me
+## 📖 <b> About Me </b>
 * 📊 <b> Data storyteller </b> interested in financial risk, hospitality, and athletics
 * 💼 <b> Loan Review Analyst </b> at First Community Bank
 * 🎓 <b> Bachelor's of Science in Recreation and Tourism Management </b> from Concord Unviersity
 * 🧑‍💼 <b> Master of Business Administration </b> from Concord University
 
-## 🛠️ Current Projects
+## 🛠️ <b> Current Projects </b>
 * To be determined
 
-## 🌟 2026 Goals and Objectives
-1. 🖥️ Improve technical skillset <br>
-    a. Machine Learning & Mathmatics <br>
-    b. Generative AI <br>
-    c. Azure
+## 🌟 <b> 2026 Goals and Objectives </b>
+1. 🖥️ <b> Improve technical skillset </b> <br>
+    a. <b> Machine Learning & Mathmatics </b> <br>
+    b. <b> Generative AI </b> <br>
+    c. <b> Azure </b>
 
-2. 🤑 Develop risk analytics portfolio <br>
+2. 🤑 <b> Develop risk analytics portfolio </b> <br>
     a. Quant Analytics <br>
     b. Decision Making <br>
     c. Scenario Analyses
 
-3. 👨‍👩‍👧‍👦 Provide for and support my family and improve quality of life <br>
+3. 👨‍👩‍👧‍👦 <b> Provide for and support my family and improve quality of life </b> <br>
     a. Continue to learn about being a great father and husband <br>
     b. Workout 3-4 Days <br>
     c. Eat a low carb, high protein diet <br>
