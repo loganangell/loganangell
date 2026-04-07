@@ -18,12 +18,12 @@
     b. Decision Making <br>
     c. Scenario Analyses
 
-3. 👨‍👩‍👧‍👦 Provide for and support my family <br>
-    a. Workout 3-4 Days <br>
-    b. Eat a low carb, high protein diet <br>
-    c. Drink 84+ fl oz of water daily <br>
-    d. Relearn how to play basketball <br>
-    e. Continue to learn about being a great father and husband
+3. 👨‍👩‍👧‍👦 Provide for and support my family and improve quality of life <br>
+    a. Continue to learn about being a great father and husband <br>
+    b. Workout 3-4 Days <br>
+    c. Eat a low carb, high protein diet <br>
+    d. Drink 84+ fl oz of water daily <br>
+    e. Relearn how to play basketball <br>
 
 ## 📬 Platforms
 
