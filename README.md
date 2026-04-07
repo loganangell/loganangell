@@ -1,7 +1,7 @@
 ## 📖 About Me
 * 📊 <b> Data storyteller </b> interested in financial risk, hospitality, and athletics
 * 💼 <b> Loan Review Analyst </b> at First Community Bank
-* 🎓 <b> Bachelor's of Science in Recreation </b> and Tourism Management from Concord Unviersity
+* 🎓 <b> Bachelor's of Science in Recreation and Tourism Management </b> from Concord Unviersity
 * 🧑‍💼 <b> Master of Business Administration </b> from Concord University
 
 ## 🛠️ Current Projects
