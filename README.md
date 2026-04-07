@@ -29,8 +29,4 @@
 
 To learn more about me or collaborate, please follow my different social accounts: <br>
 
-[![Discord](icons/discord.svg)](https://discord.com/channels/@me/1487615211102933155) <br>
-
-[![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/logan-angell/) <br>
-
-[![HuggingFace](icons/huggingface.svg)](https://huggingface.co/loganangell)
+[![Discord](icons/discord.svg)](https://discord.com/channels/@me/1487615211102933155) [![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/logan-angell/)
