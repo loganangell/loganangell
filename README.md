@@ -33,4 +33,4 @@ To learn more about me or collaborate, please follow my different social account
 
 [![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/logan-angell/) <br>
 
-[![HuggingFace](https://huggingface.co/loganangell)
+[![HuggingFace](icons/huggingface.svg)](https://huggingface.co/loganangell)
