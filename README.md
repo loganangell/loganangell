@@ -29,7 +29,7 @@
 
 To learn more about me or collaborate, please follow my different social accounts: <br>
 
-[![Discord](icons/discord.svg)](https://discord.com/channels/@me/1487615211102933155) <br>
+[![Discord]((https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://discord.com/channels/@me/1487615211102933155) <br>
 
 [![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/logan-angell/) <br>
 
