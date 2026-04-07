@@ -9,9 +9,9 @@
 
 ## 🌟 <b> 2026 Goals and Objectives </b>
 1. 🖥️ <b> Improve technical skillset </b> <br>
-    a. <b> Machine Learning & Mathmatics </b> <br>
-    b. <b> Generative AI </b> <br>
-    c. <b> Azure </b>
+    a. Machine Learning & Mathmatics <br>
+    b. Generative AI <br>
+    c. Azure
 
 2. 🤑 <b> Develop risk analytics portfolio </b> <br>
     a. Quant Analytics <br>
