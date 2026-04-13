@@ -5,7 +5,8 @@
 * 🧑‍💼 <b> Master of Business Administration </b> from Concord University
 
 ## 🛠️ <b> Current Projects </b>
-* To be determined
+* Short Term: To be determined 🤔
+* Long Term: Project Dark-Angell 🪽
 
 ## 🌟 <b> 2026 Goals and Objectives </b>
 1. 🖥️ <b> Improve technical skillset </b> <br>
