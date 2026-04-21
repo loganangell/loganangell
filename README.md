@@ -5,7 +5,7 @@
 * 🧑‍💼 <b> Master of Business Administration </b> from Concord University
 
 ## 🛠️ <b> Current Projects </b>
-* Short Term: To be determined 🤔
+* Short Term: Bank Competition Analysis 🏦
 * Long Term: Project Dark-Angell 🪽
 
 ## 🌟 <b> 2026 Goals and Objectives </b>
