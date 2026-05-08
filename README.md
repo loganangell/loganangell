@@ -5,7 +5,7 @@
 * 🧑‍💼 <b> Master of Business Administration </b> from Concord University
 
 ## 🛠️ <b> Current Projects </b>
-* Short Term: Stock Prediction Model 🏦
+* Short Term: TBD 🤔
 * Long Term: Project Dark-Angell 🪽
 
 ## 🌟 <b> 2026 Goals and Objectives </b>
